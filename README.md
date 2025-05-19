@@ -1,4 +1,4 @@
-#CentOS Linux INSTALLATION 
+# CentOS Linux INSTALLATION 
 
 This section walks users through the process of installing CentOS on their computer. It explains how to obtain the ISO image, prepare a bootable installation drive, and carry out the installation steps. The guide reflects hands-on experience and addresses frequently encountered issues, along with helpful troubleshooting suggestions. It is designed to be straightforward and easy to follow, making it suitable for beginners.
 
